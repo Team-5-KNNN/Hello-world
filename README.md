@@ -1,2 +1,2 @@
 # Hello-world
-Bài tập 1 của thầy nè
+Bài tập số 1 của môn Kỹ năng nghề nghiệp
